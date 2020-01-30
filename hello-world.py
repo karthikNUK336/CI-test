@@ -1,6 +1,7 @@
 class Demo:
-        def print_greetings(self, name):
-            print(f"hello {name}")
+    
+    def print_greetings(self, name):
+        print(f"hello {name}")
 
 
 if __name__ == "__main__":
